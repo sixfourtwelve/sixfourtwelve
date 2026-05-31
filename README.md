@@ -1,3 +1,4 @@
+```hcl
 resource "developer" "ethan" {
   role      = "software engineer"
   location  = "cardiff, wales"
@@ -8,3 +9,4 @@ resource "developer" "ethan" {
   site   = "https://sixfourtwelve.com"
   github = "https://github.com/sixfourtwelve"
 }
+```
