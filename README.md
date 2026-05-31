@@ -6,7 +6,7 @@ resource "developer" "ethan" {
   languages = ["c#", "f#", "terraform", "typescript"]
   editors   = ["emacs", "vim", "vscode", "zed", "cursor"]
 
-  site   = "https://sixfourtwelve.com"
-  github = "https://github.com/sixfourtwelve"
+  twitter   = "https://x.com/sixfourtwelve"
+  github    = "https://github.com/sixfourtwelve"
 }
 ```
