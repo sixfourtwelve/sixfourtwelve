@@ -1,12 +1,12 @@
 ```hcl
 resource "developer" "ethan" {
-  role      = "software engineer"
-  location  = "cardiff, wales"
+  role       = "software engineer"
+  location   = "cardiff, wales"
 
-  languages = ["c#", "f#", "terraform", "typescript"]
-  editors   = ["emacs", "vim", "vscode", "zed", "cursor"]
+  languages  = ["c#", "f#", "terraform", "typescript"]
+  editors    = ["emacs", "vim", "vscode", "zed", "cursor"]
 
   linkedin   = "https://www.linkedin.com/in/ethan-morgan-24377213a"
-  github    = "https://github.com/sixfourtwelve"
+  github     = "https://github.com/sixfourtwelve"
 }
 ```
