@@ -4,7 +4,7 @@ resource "developer" "ethan" {
   location   = "cardiff, wales"
 
   languages  = ["c#", "f#", "terraform", "typescript"]
-  editors    = ["emacs", "vim", "vscode", "zed", "cursor"]
+  editors    = ["vim", "vscode"]
 
   linkedin   = "https://www.linkedin.com/in/ethan-morgan-24377213a"
   github     = "https://github.com/sixfourtwelve"
