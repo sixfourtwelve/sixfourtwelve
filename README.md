@@ -3,7 +3,7 @@ resource "developer" "ethan" {
   role       = "software engineer"
   location   = "cardiff, wales"
 
-  languages  = ["c#", "f#", "terraform", "typescript"]
+  languages  = ["c#", "f#", "hcl", "typescript"]
   editors    = ["vim", "vscode"]
 
   linkedin   = "https://www.linkedin.com/in/ethan-morgan-24377213a"
